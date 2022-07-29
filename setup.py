@@ -16,8 +16,8 @@ def read(filename):
 setup(
 
     name="zaptools",
-    version="0.0.2",
-    url="https://github.com/NathanDraco22/zap-adapter-python",
+    version="0.0.4",
+    url="https://github.com/NathanDraco22/zaptools-python",
     license='MIT',
 
     author="Nathan Mejia",
@@ -43,5 +43,6 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
     ],
 )
